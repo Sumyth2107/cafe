@@ -1,0 +1,48 @@
+
+
+h1{
+    color: rgb(92, 14, 0);
+    font-size: 33px;
+    border-width: medium;
+    text-align: center;
+
+
+}
+#choco{
+    color: rgb(31, 82, 139);
+    font-size:35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  text-decoration-style: solid;
+  text-decoration-thickness: 5px;
+}
+#choco a{
+    color: inherit;
+
+}
+#choco li{
+    color:inherit;
+
+}
+.logopos{
+    display: block;
+  
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+height: 200px;
+border-radius: 50%; 
+object-fit: cover; 
+}
+body{
+ background-image: url(images/light-scratched-concrete-wall-texture-with-coffee-beans-corner_124507-10556.avif
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    font-family: Arial, sans-serif; /* Example font family */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    color: white;
+
+
+}
