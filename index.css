@@ -2,14 +2,14 @@
 
 h1{
     color: rgb(92, 14, 0);
-    font-size: 33px;
+    font-size: 40px;
     border-width: medium;
     text-align: center;
 
 
 }
 #choco{
-    color: rgb(31, 82, 139);
+    color: rgb(255, 255, 255);
     font-size:35px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
@@ -35,7 +35,7 @@ border-radius: 50%;
 object-fit: cover; 
 }
 body{
- background-image: url(images/light-scratched-concrete-wall-texture-with-coffee-beans-corner_124507-10556.avif
+ background-image: url(images/light-scratched-concrete-wall-texture-with-coffee-beans-corner_124507-10556.avif);
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent the background image from repeating */
@@ -43,6 +43,16 @@ body{
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
     color: white;
+    border: 2px;
+    
 
-
+}
+.container {
+    width: 23%;
+    
+    padding: 10px;
+    background-color: #4d2601;
+    border: 2px solid #661111;
+    border-radius: 22px;
+    
 }
